@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "notes": "修复一键安装问题。",
+  "pub_date": "2026-03-19T10:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://gh-proxy.org/https://github.com/lizhouliang/workbuddy-skin-update/releases/download/skin/WorkBuddySkin-v1.0.1.rar"
+    }
+  }
+}
